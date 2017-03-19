@@ -1,3 +1,3 @@
 # padgilwar.in
 
-Wbsite for JS Corp 
+Website for JS Corp 
